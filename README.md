@@ -1,2 +1,0 @@
-# SnakeMods
-Google snake mods!
